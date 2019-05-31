@@ -24,3 +24,5 @@ CONTENTS:
 
 05_Machine_Learning.ipynb - Jupyter Notebook on machine learning
 
+06_Final_Report.pdf - Final Report of the Project
+
